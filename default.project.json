@@ -1,0 +1,14 @@
+{
+  "name": "suitetest",
+  "tree": {
+    "$className": "DataModel",
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "src/"
+        }
+      }
+    }
+  }
+}
