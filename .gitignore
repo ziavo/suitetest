@@ -1,5 +1,6 @@
 # Project place file
 /suitetest.rbxlx
+/default.project.json
 
 # Roblox Studio lock files
 /*.rbxlx.lock
